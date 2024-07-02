@@ -1,0 +1,66 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image:url(https://img.belmond.com/f_auto/t_2580x1451/photos/cat/cat-ext04.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300%;
+}
+.container{
+    background-color: #ebe6e6d5;
+    max-width: 60%;
+    padding: 1%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px #16161667;  
+    align-items: center;
+    margin: auto; 
+    justify-content: center;
+}
+h1,h2,h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: vertical-aling;
+    text-align:inherit;
+    border: solid 0px;
+
+}
+.textos{
+    text-align: left;
+    border: solid 0px;
+    margin-left: 200px;
+}
+.emocoes{
+    width: fit-content;
+    border: solid 0px;
+    margin-left: 280px;
+}
+.simounao{
+    border: solid 0px;
+    text-align: center;
+}
+.info{
+    text-align: left;
+    border: solid 0px;
+    margin-left: 210px;
+}
+input{
+    color: burlywood;
+    border: #ebe6e6;
+    width: 150px;
+    padding: 0.5%;
+    border-radius: 5px;
+}
+input::placeholder{
+    color: burlywood;
+}
+.final{
+text-align: center;
+}
+.botao{
+text-align: center;
+}
